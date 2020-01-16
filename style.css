@@ -1,0 +1,106 @@
+body
+  {
+    font-family: 'Montserrat', sans-serif;
+    background-color: grey;
+    height: auto;
+    width: auto;
+  }
+
+  h2
+    {
+      text-align: center;
+      text-decoration: underline;
+    }
+
+.tim
+  {
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+  }
+
+.tim img
+  {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:110px;
+    height:110px;
+    border: 2px solid grey;
+  }
+
+.tim h1
+    {
+      color: red;
+    }
+
+
+.tab
+      {
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        width: 550px;
+        padding: 20px;
+        height: auto;
+        background-color: white;
+      }
+
+ul
+  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+.fab
+  {
+
+    color: lightgrey;
+    font-size: 35px;
+
+  }
+
+.tab a
+    {
+
+      font-size: 20px;
+      color: lightgrey;
+      text-decoration: none;
+
+    }
+
+
+.film
+{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  width: 550px;
+  height: auto;
+  background-color: white;
+  padding: 20px;
+
+
+}
+
+
+
+}
+
+.film-affiche
+  {
+    max-width: 25%;
+    height: auto;
+
+  }
